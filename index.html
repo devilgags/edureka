@@ -1,0 +1,34 @@
+<html>
+<head>
+  <title>A quote a day</title>
+</head>
+    <body>
+        <br>
+        <br>
+        <br>
+        <br>
+         <br>
+        <br>
+        <br>
+        <br>
+
+
+        <div align="center">
+            <h1 style="color:#1a1a1a" id="quote"></h1>
+        </div>
+
+        <script>
+            var quoteArray=[
+                "Honesty is the best policy.",
+                "A stitch in time saves nine.",
+                "Cleanliness is next to godliness.",
+                "Whatever you are , be a good one.",
+                "Believe in yourself and you are halfway there"
+            ];
+
+            var randomNumber=Math.floor(Math.random()*5);
+            document.getElementById('quote').innerHTML=quoteArray[randomNumber];
+        </script>
+    </body>
+
+</html>
