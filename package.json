@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devilgags/edureka.git"
+    "url": "git+https://github.com/devilgags/gagan-quote-day.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/devilgags/edureka/issues"
+    "url": "https://github.com/devilgags/gagan-quote-day/issues"
   },
-  "homepage": "https://github.com/devilgags/edureka#readme",
+  "homepage": "https://github.com/devilgags/gagan-quote-day#readme",
   "dependencies": {
     "express": "^4.14.0"
   }
